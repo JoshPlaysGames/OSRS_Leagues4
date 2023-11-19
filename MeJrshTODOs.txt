@@ -32,17 +32,13 @@ Check a Grown Palm Tree
 Chop 75 Magic Logs
 Craft a Dragonstone Amulet
 Equip a Rune Crossbow
-Equip a Magic Shortbow
-Equip an Ornament Kit Item
 Equip some Ranger Boots
 Fill a Giant Pouch
 Fill a Hard Stash Unit (55 Construction)
 Fletch 200 Magic Longbow (85 Fletching)
 Fletch a Magic Shield (87 Fletching)
 Fletch a Magic Shortbow (80 Fletching)
-Fletch a Rune Crossbow (69 Fletching)
 Obstain a Magic Seed from a Birds Nest
-Restore 75 Prayer Points at an Altar
 Steal from a Gem Stall (75 Thieving)
 Check a Grown Potato Cactus in Al-Karid
 Complete the Tombs of Amascut on Normal or Expert
