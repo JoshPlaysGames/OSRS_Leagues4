@@ -29,15 +29,11 @@ Check a Grown Magic Tree in Lumbridge
 Catch 100 Shark
 Cast a Surge Spell (BA)
 Check a Grown Palm Tree
-Chop 75 Magic Logs
 Craft a Dragonstone Amulet
-Equip a Rune Crossbow
 Equip some Ranger Boots
 Fill a Giant Pouch
 Fill a Hard Stash Unit (55 Construction)
-Fletch 200 Magic Longbow (85 Fletching)
 Fletch a Magic Shield (87 Fletching)
-Fletch a Magic Shortbow (80 Fletching)
 Obstain a Magic Seed from a Birds Nest
 Steal from a Gem Stall (75 Thieving)
 Check a Grown Potato Cactus in Al-Karid
@@ -47,7 +43,6 @@ Equip a Full Set of the Smith's Outfit
 Equip a Master Wand
 Equip a Mage's Book
 Hand in a Sword of 150 Quality at Giant's Foundry
-Pick a Summer Sq'irk 65 Thieving
 Knock out and then pickpocket a Menaphite Thug 50 times.
 Complete Path of Glouphrie
 Defeat a Demonic Gorilla
